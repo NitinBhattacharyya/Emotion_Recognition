@@ -7,6 +7,7 @@ tuner library, testing out different number of convolution layers and different 
 69.55% test accuracy, which contained 8 convolution layers and used Ad-am optimizer.
 
 <h1>Model Predicting Emotion on Sample Pictures</h1>
+
 ![image](https://github.com/NitinBhattacharyya/Emotion_Recognition/assets/42495409/deea2d7c-bcb1-4cad-b094-eb3a1b7c55ef)
 ![image](https://github.com/NitinBhattacharyya/Emotion_Recognition/assets/42495409/e42e67ba-141c-4b91-9464-77151e33eb99)
 
